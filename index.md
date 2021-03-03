@@ -19,7 +19,7 @@ Choose your favaourite build system from the following list.
    For guidelines on building and using yocto, Click [here]()
 ##### Buildroot
    For guidelines on building and using buildroot, Click [here]()
-### Bare metal applications
+### Bare metal and RTOS application developers
 For guidelines on runnning bare metal applications on the PolarFire SoC, Click [here]()
 ### FPGA designers
 If you want to view the the PolarFire SoC reference design and modify it, please click [here](). 
