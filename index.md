@@ -25,6 +25,6 @@ For guidelines on runnning bare metal applications on the PolarFire SoC, Click [
 If you want to view the the PolarFire SoC reference design and modify it, please click [here](). 
 
 ## Further reading
-For detailed documentation of each component of the PolarFire SoC system is provided [here](https://github.com/polarfire-soc/polarfire-soc-documentation)
+For detailed documentation on all aspects of the PolarFire SoC FPGA systems can be found [here](https://github.com/polarfire-soc/polarfire-soc-documentation)
 
 
