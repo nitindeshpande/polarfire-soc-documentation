@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to PolarFire SoC
 
-You can use the [editor on GitHub](https://github.com/nitindeshpande/polarfire-soc-documentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+PolarFire SoC Industry’s First RISC-V SoC FPGA Architecture Brings Real-Time to Linux, Giving Developers the Freedom to Innovate in Low-Power, Secure and Reliable Designs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Quick start
+To try PolarFire SoC, you can use the [icicle kit] (link). Icicle kit comes with a PolarFire SoC FPGA device pre-programmed with a reference design and linux image pre-programmed with it. To quickly start using icicle kit, follow the instructions [here](https://www.microsemi.com/products/fpga-soc/polarfire-soc-icicle-quick-start-guide#getting-started) and you will see Linux booting up on the icicle kit Out Of the Box.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+To upgrade the SoC FPGA design running on your icicle kit, download the design files from [here]() and follow the instructions [here]() to program it on your icicle kit
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nitindeshpande/polarfire-soc-documentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
