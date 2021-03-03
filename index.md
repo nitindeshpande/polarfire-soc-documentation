@@ -25,6 +25,6 @@ Choose your favaourite build system from the following list.
 For guidelines on runnning bare metal and RTOS applications on the PolarFire SoC, Click [here]()
 
 ## Further reading
-For detailed documentation on all aspects of the PolarFire SoC FPGA systems can be found [here](https://github.com/polarfire-soc/polarfire-soc-documentation)
+Detailed documentation on all aspects of the PolarFire SoC FPGA systems can be found [here](https://github.com/polarfire-soc/polarfire-soc-documentation)
 
 
