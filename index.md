@@ -23,7 +23,7 @@ For guidelines on building and using buildroot, Click [here]()
 ### Bare metal application developers
 To run bare metal applications on the PolarFire SoC, Click [here]()
 ### FPGA designers
-If you want to view the the PolarFire SoC reference design and modify it, please click [here]().
+If you want to view the the PolarFire SoC reference design and modify it, please click [here](). 
 
 
 
