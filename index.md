@@ -14,7 +14,7 @@ To upgrade the Yocto Linux image running on your icicle kit with the latest avai
 Choose a starting point from the following list depending on what you want to do next.
 
 ### FPGA designers
-If you want to view the the PolarFire SoC reference design and modify it, please click [here](https://github.com/polarfire-soc/icicle-kit-reference-design). 
+To explore the PolarFire SoC reference libero design and modify it, click [here](https://github.com/polarfire-soc/icicle-kit-reference-design). 
 ### Linux application developers
 Choose your favaourite build system from the following list.
 ##### Yocto
