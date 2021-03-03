@@ -13,6 +13,8 @@ To upgrade the Yocto Linux image running on your icicle kit with the latest avai
 ## What do you want to do next?
 Choose a starting point from the following list depending on what do you want to do next.
 
+### FPGA designers
+If you want to view the the PolarFire SoC reference design and modify it, please click [here](). 
 ### Linux application developers
 Choose your favaourite build system from the following list.
 ##### Yocto
@@ -20,9 +22,7 @@ Choose your favaourite build system from the following list.
 ##### Buildroot
    For guidelines on building and using buildroot, Click [here]()
 ### Bare metal and RTOS application developers
-For guidelines on runnning bare metal applications on the PolarFire SoC, Click [here]()
-### FPGA designers
-If you want to view the the PolarFire SoC reference design and modify it, please click [here](). 
+For guidelines on runnning bare metal and RTOS applications on the PolarFire SoC, Click [here]()
 
 ## Further reading
 For detailed documentation on all aspects of the PolarFire SoC FPGA systems can be found [here](https://github.com/polarfire-soc/polarfire-soc-documentation)
