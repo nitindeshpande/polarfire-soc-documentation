@@ -15,9 +15,9 @@ Choose a starting point from the following list depending on what do you want to
 
 ### Linux application developers
 You have the following choise of build system.
- - Yocto
+##### Yocto
 For guidelines on building and using yocto, Click [here]()
- - Buildroot
+##### Buildroot
 For guidelines on building and using buildroot, Click [here]()
 ### Bare metal applications
 For guidelines on runnning bare metal applications on the PolarFire SoC, Click [here]()
