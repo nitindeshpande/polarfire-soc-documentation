@@ -17,10 +17,11 @@ Choose a starting point from the following list depending on what do you want to
 If you want to view the the PolarFire SoC reference design and modify it, please click [here](https://github.com/polarfire-soc/icicle-kit-reference-design). 
 ### Linux application developers
 Choose your favaourite build system from the following list.
-* Yocto
+##### Yocto
    For guidelines on building and using yocto, Click [here](https://github.com/polarfire-soc/meta-polarfire-soc-yocto-bsp#microchip-polarfire-soc-yocto-bsp)
-* Buildroot
+##### Buildroot
    For guidelines on building and using buildroot, Click [here](https://github.com/polarfire-soc/polarfire-soc-buildroot-sdk#microchip-polarfire-soc-linux-software-development-kit)
+   
 ### Bare metal and RTOS application developers
 For guidelines on runnning bare metal and RTOS applications on the PolarFire SoC, Click [here](https://github.com/polarfire-soc/polarfire-soc-bare-metal-library#polarfire-soc-bare-metal-library)
 
