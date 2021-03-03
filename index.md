@@ -14,11 +14,11 @@ To upgrade the Yocto Linux image running on your icicle kit with the latest avai
 Choose a starting point from the following list depending on what do you want to do next.
 
 ### Linux application developers
-You have the following choise of build system.
+Choose your favaourite build system from the following list.
 ##### Yocto
-For guidelines on building and using yocto, Click [here]()
+   For guidelines on building and using yocto, Click [here]()
 ##### Buildroot
-For guidelines on building and using buildroot, Click [here]()
+   For guidelines on building and using buildroot, Click [here]()
 ### Bare metal applications
 For guidelines on runnning bare metal applications on the PolarFire SoC, Click [here]()
 ### FPGA designers
