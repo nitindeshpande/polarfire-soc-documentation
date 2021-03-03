@@ -1,6 +1,6 @@
 ## Welcome to PolarFire SoC
 
-PolarFire SoC is Industry’s First RISC-V SoC FPGA Architecture Brings Real-Time to Linux, Giving Developers the Freedom to Innovate in Low-Power, Secure and Reliable Designs
+PolarFire SoC is Industry’s First RISC-V SoC FPGA Architecture bringing Real-Time capability to Linux, enabling the freedom to innovate in _Low-Power_, _Secure_ and _reliable_ programmable solutions.
 
 ## Quick start
 To start exploring and evaluating PolarFire SoC features, you can start using the [icicle kit](https://www.microsemi.com/products/fpga-soc/polarfire-soc-icicle-quick-start-guide#hardware) hardware platform. The PolarFire SoC FPGA device on the icicle kit is pre-programmed with a reference design and a yocto linux image. Follow the [instructions](https://www.microsemi.com/products/fpga-soc/polarfire-soc-icicle-quick-start-guide#getting-started) and power up the icicle kit to see Linux booting up out of the box.
